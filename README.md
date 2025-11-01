@@ -20,7 +20,7 @@ It aims to help users choose products that fit their unique skin needs.
 
 ## 📄 Project Files
 - `easymobilenetv2.ipynb` – main notebook file  
-- `SkinCare_Report.pdf` – project report 
+- `SKIN CARE RECOMMENDATION Report (SCRS).pdf` – project report 
 - `SkinCare_Presentation.pptx` – presentation 
 
 ## 🧠 Future Improvements
